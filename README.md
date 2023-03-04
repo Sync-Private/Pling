@@ -51,8 +51,7 @@ After you have installed Java, you should install maven. Here are some instructi
 
 Now you can clone the repository and build the project using maven:
 ```bash
-git clone https://github.com/Sync-Private/jam0004.git
-cd jam0004
+git clone https://github.com/Sync-Private/Pling.git
 cd Pling
 cd engine
 mvn clean install
@@ -102,7 +101,7 @@ If you are using multiple debuggers, the debugger will tell you the port it is u
 
 ## That's it already?
 
-Nope! If you want to go beyond looking at the examples in the `examples` directory, you can read the [documentation](https://sync-private.github.io/jam0004/Pling/docs/).
+Nope! If you want to go beyond looking at the examples in the `examples` directory, you can read the [documentation](https://pling.syncclient.dev).
 
 ## License
 
